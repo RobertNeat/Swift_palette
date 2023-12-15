@@ -39,8 +39,10 @@ To use/install the app you have to have installed XCode IDE in the MacOS. Simply
 
 6. Changed the linear slider value on the controllers page
 
+<span>
 <img src="https://github.com/RobertNeat/Swift_palette/blob/main/screenshots/7_sliders_and_indicators_slider_change.png" width="200"/>
 <img src="https://github.com/RobertNeat/Swift_palette/blob/main/screenshots/8_sliders_and_indicators_second_change.png" width="200"/>
+</span>
 
 7. Icons on the icon page arraged in rows with example of the different thickness
 
