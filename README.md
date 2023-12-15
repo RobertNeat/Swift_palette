@@ -23,31 +23,24 @@ To use/install the app you have to have installed XCode IDE in the MacOS. Simply
 
 2. Color picker screen that changes the background color that user sets
 
+<span>
 <img src="https://github.com/RobertNeat/Swift_palette/blob/main/screenshots/2_color_picker_view.png" width="200"/>
-  
-3. Color picker style 1
-
 <img src="https://github.com/RobertNeat/Swift_palette/blob/main/screenshots/3_color_picker_background_change.png" width="200"/>
-
-4. Color picker style 2
-
 <img src="https://github.com/RobertNeat/Swift_palette/blob/main/screenshots/4_color_picker_second_change.png" width="200"/>
+</span>
 
-5. Sliders and linear controllers page (first launch)
-
-<img src="https://github.com/RobertNeat/Swift_palette/blob/main/screenshots/6_sliders_and_indicators_launch.png" width="200"/>
-
-6. Changed the linear slider value on the controllers page
+3. Sliders and linear controllers page, change value using slider
 
 <span>
+<img src="https://github.com/RobertNeat/Swift_palette/blob/main/screenshots/6_sliders_and_indicators_launch.png" width="200"/>
 <img src="https://github.com/RobertNeat/Swift_palette/blob/main/screenshots/7_sliders_and_indicators_slider_change.png" width="200"/>
 <img src="https://github.com/RobertNeat/Swift_palette/blob/main/screenshots/8_sliders_and_indicators_second_change.png" width="200"/>
 </span>
 
-7. Icons on the icon page arraged in rows with example of the different thickness
+4. Icons on the icon page arraged in rows with example of the different thickness
 
 <img src="https://github.com/RobertNeat/Swift_palette/blob/main/screenshots/9_icons_list_screen.png" width="200"/>
 
-8. Gradients page that demonstrates the mas with rainbow gradient masking the text and icons
+5. Gradients page that demonstrates the mas with rainbow gradient masking the text and icons
 
 <img src="https://github.com/RobertNeat/Swift_palette/blob/main/screenshots/10_gradients_screen.png" width="200"/>
